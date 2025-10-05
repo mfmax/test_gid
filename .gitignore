@@ -1,0 +1,37 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Виртуальные окружения
+.venv/
+venv/
+
+
+# Пакеты/сборки
+build/
+dist/
+*.egg-info/
+
+
+# IDE/редакторы
+.vscode/
+.idea/
+
+
+# Логи/кэши
+*.log
+.cache/
+
+
+# Тест‑артефакты
+.coverage
+htmlcov/
+.pytest_cache/
+
+
+# Конфиги с секретами
+.env
+.env.*
+*.secret
