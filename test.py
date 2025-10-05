@@ -11,4 +11,5 @@ load_dotenv()
 api_key = os.getenv("API_KEY")
 
 # Выводим ключ (в реальном проекте так делать не стоит из соображений безопасности!)
+# test 
 print("API Key:", api_key)
